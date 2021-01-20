@@ -10,6 +10,4 @@ module.exports = {
     // 内容选择器，须定位到内容
     content: 'div.read-content',
   },
-  // 添加前置协议
-  prependProtocal: true,
 }
